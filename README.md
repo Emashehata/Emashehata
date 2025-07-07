@@ -15,7 +15,7 @@
 - 🎓 I'm a front-end developer skilled in **HTML, CSS, JavaScript, Bootstrap, Tailwind, Sass, and Angular**
 - 🧠 Currently learning **ASP.NET** to become a full-stack developer
 - 📫 Reach me at: [emanshehata258@gmail.com](mailto:emanshehata258@gmail.com)
-- 🌐 My portfolio: [github.com/Emashehata](https://portfolio-ten-beryl-58.vercel.app/)
+- 🌐 My portfolio: [https://portfolio-ten-beryl-58.vercel.app/](https://portfolio-ten-beryl-58.vercel.app/)
 - 🔗 LinkedIn: [linkedin.com/in/emanshehata](https://www.linkedin.com/in/emanshehata)
 
 ### 💼 Tech Stack
